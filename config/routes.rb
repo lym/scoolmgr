@@ -1,4 +1,6 @@
 ActiveAdmeen::Application.routes.draw do
+  get "students/create"
+
   ActiveAdmin.routes(self)
 
   devise_for :admin_users, ActiveAdmin::Devise.config
