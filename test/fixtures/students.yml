@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  name: MyString
+  student_class: MyString
+  date_of_birth: 2012-09-24
+  guardian_contact: MyString
+  student_residence: MyString
+  photo_url: MyString
+
+two:
+  name: MyString
+  student_class: MyString
+  date_of_birth: 2012-09-24
+  guardian_contact: MyString
+  student_residence: MyString
+  photo_url: MyString
