@@ -1,0 +1,29 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  day_care: 9.99
+  uniform: 9.99
+  examination: 9.99
+  tuition: 9.99
+  textbooks: 9.99
+  holiday_work: 9.99
+  pocket_money: 9.99
+  penalties: 9.99
+  registration: 9.99
+  building_fund: 9.99
+  meals: 9.99
+  extra_curricular_activities: 9.99
+
+two:
+  day_care: 9.99
+  uniform: 9.99
+  examination: 9.99
+  tuition: 9.99
+  textbooks: 9.99
+  holiday_work: 9.99
+  pocket_money: 9.99
+  penalties: 9.99
+  registration: 9.99
+  building_fund: 9.99
+  meals: 9.99
+  extra_curricular_activities: 9.99
